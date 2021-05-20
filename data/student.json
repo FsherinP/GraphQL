@@ -1,0 +1,45 @@
+[
+  {
+    "id": "std-101",
+    "firstName": "ABC",
+    "email": "ABC.student@college.org",
+    "subject": "Maths",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+
+  {
+    "id": "std-102",
+    "firstName": "DEF",
+    "email": "DEF.student@college.org",
+    "subject": "Physics",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+
+  {
+    "id": "std-103",
+    "firstName": "GHI",
+    "email": "GHI.student@college.org",
+    "subject": "Chemistry",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+
+  {
+    "id": "std-104",
+    "firstName": "JKL",
+    "email": "JKL.student@college.org",
+    "subject": "English",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+
+  {
+    "id": "std-105",
+    "firstName":"MNO",
+    "email": "MNO.student@college.org",
+    "password": "pass123",
+    "collegeId": "col-102"
+  }
+]
